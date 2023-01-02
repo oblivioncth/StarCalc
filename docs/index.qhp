@@ -5,7 +5,7 @@
 <filterSection>
 <filterAttribute>doxygen</filterAttribute>
 <toc>
-<section title="STARpp v0.2" ref="index.html">
+<section title="STARpp v0.2.0.1" ref="index.html">
 <section title="STAR++" ref="index.html">
 <section title="Requirements" ref="index.html#autotoc_md0"/>
 <section title="Packaging" ref="index.html#autotoc_md1"/>
