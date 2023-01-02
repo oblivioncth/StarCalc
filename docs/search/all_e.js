@@ -134,7 +134,7 @@ var searchData=
   ['options_131',['Options',['../class_star_1_1_calculator.html#a7c4587d910e0b850a4969eeb5dd2bb82',1,'Star::Calculator']]],
   ['options_132',['options',['https://doc.qt.io/qt-6/qauthenticator.html#options',0,'QAuthenticator::options()'],['../class_star_1_1_calculator.html#a09ece675d7223192412dd33734ba2c47',1,'Star::Calculator::options()']]],
   ['optionsafterpositionalargumentsmode_133',['OptionsAfterPositionalArgumentsMode',['https://doc.qt.io/qt-6/qcommandlineparser.html#OptionsAfterPositionalArgumentsMode-enum',0,'QCommandLineParser']]],
-  ['order_134',['Order',['../struct_rank.html#a6b96fd042b151df10534c32c25fa025b',1,'Rank']]],
+  ['order_134',['Order',['../struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8',1,'Star::Rank']]],
   ['orderedalphadither_135',['OrderedAlphaDither',['https://doc.qt.io/qt-6/qt.html#ImageConversionFlag-enum',0,'Qt']]],
   ['ordereddither_136',['OrderedDither',['https://doc.qt.io/qt-6/qt.html#ImageConversionFlag-enum',0,'Qt']]],
   ['organization_137',['Organization',['https://doc.qt.io/qt-6/qsslcertificate.html#SubjectInfo-enum',0,'QSslCertificate']]],

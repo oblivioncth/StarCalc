@@ -15,7 +15,7 @@ var searchData=
   ['canbroadcast_12',['CanBroadcast',['https://doc.qt.io/qt-6/qnetworkinterface.html#InterfaceFlag-enum',0,'QNetworkInterface']]],
   ['canbus_13',['CanBus',['https://doc.qt.io/qt-6/qnetworkinterface.html#InterfaceType-enum',0,'QNetworkInterface']]],
   ['candidate_14',['candidate',['../struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516',1,'Star::Election::Vote']]],
-  ['candidates_15',['candidates',['../struct_rank.html#af48a6c979b02f6a227b1834dbb825270',1,'Rank']]],
+  ['candidates_15',['candidates',['../struct_star_1_1_rank.html#ac9ac8e261e2273af941f0ae2655b8fff',1,'Star::Rank']]],
   ['canmulticast_16',['CanMulticast',['https://doc.qt.io/qt-6/qnetworkinterface.html#InterfaceFlag-enum',0,'QNetworkInterface']]],
   ['canonical_17',['Canonical',['https://doc.qt.io/qt-6/qchar.html#Decomposition-enum',0,'QChar']]],
   ['cantonese_18',['Cantonese',['https://doc.qt.io/qt-6/qlocale.html#Language-enum',0,'QLocale']]],

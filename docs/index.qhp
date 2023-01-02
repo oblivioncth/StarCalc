@@ -5,7 +5,7 @@
 <filterSection>
 <filterAttribute>doxygen</filterAttribute>
 <toc>
-<section title="STARpp v0.2.0.1" ref="index.html">
+<section title="STARpp v0.2.0.2" ref="index.html">
 <section title="STAR++" ref="index.html">
 <section title="Requirements" ref="index.html#autotoc_md0"/>
 <section title="Packaging" ref="index.html#autotoc_md1"/>
@@ -119,6 +119,14 @@
 <section title="secondSeed" ref="class_star_1_1_qualifier_result.html#a25782907fe1ed5d3ac0d09f00d46e13c"/>
 <section title="seeds" ref="class_star_1_1_qualifier_result.html#a9996bdcdf1271db1e4a85329f854acb2"/>
 <section title="unresolved" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
+</section>
+<section title="Rank" ref="struct_star_1_1_rank.html">
+<section title="Order" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8">
+<section title="Ascending" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737"/>
+<section title="Descending" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c"/>
+</section>
+<section title="candidates" ref="struct_star_1_1_rank.html#ac9ac8e261e2273af941f0ae2655b8fff"/>
+<section title="value" ref="struct_star_1_1_rank.html#a5dd13d44c0dce8825063706ccaf6d599"/>
 </section>
 <section title="ReferenceError" ref="struct_star_1_1_reference_error.html">
 <section title="isValid" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
@@ -251,6 +259,14 @@
 <section title="seeds" ref="class_star_1_1_qualifier_result.html#a9996bdcdf1271db1e4a85329f854acb2"/>
 <section title="unresolved" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
 </section>
+<section title="Rank" ref="struct_star_1_1_rank.html">
+<section title="Order" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8">
+<section title="Ascending" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737"/>
+<section title="Descending" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c"/>
+</section>
+<section title="candidates" ref="struct_star_1_1_rank.html#ac9ac8e261e2273af941f0ae2655b8fff"/>
+<section title="value" ref="struct_star_1_1_rank.html#a5dd13d44c0dce8825063706ccaf6d599"/>
+</section>
 <section title="ReferenceError" ref="struct_star_1_1_reference_error.html">
 <section title="isValid" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
 <section title="error" ref="struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f"/>
@@ -271,14 +287,6 @@
 <section title="winner" ref="class_star_1_1_seat.html#a2e41ed885a4e7af7edb7520a6fc62d19"/>
 </section>
 </section>
-<section title="Rank" ref="struct_rank.html">
-<section title="Order" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025b">
-<section title="Ascending" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
-<section title="Descending" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
-</section>
-<section title="candidates" ref="struct_rank.html#af48a6c979b02f6a227b1834dbb825270"/>
-<section title="value" ref="struct_rank.html#a5e9dae40264d7d5bd9a67a70e74090dd"/>
-</section>
 </section>
 <section title="Class Index" ref="classes.html"/>
 <section title="Class Hierarchy" ref="hierarchy.html">
@@ -292,7 +300,7 @@
 <section title="Star::Calculator" ref="class_star_1_1_calculator.html"/>
 </section>
 <section title="Star::QualifierResult" ref="class_star_1_1_qualifier_result.html"/>
-<section title="Rank" ref="struct_rank.html"/>
+<section title="Star::Rank" ref="struct_star_1_1_rank.html"/>
 <section title="Star::ReferenceError" ref="struct_star_1_1_reference_error.html"/>
 <section title="Star::Seat" ref="class_star_1_1_seat.html"/>
 <section title="Star::Election::Vote" ref="struct_star_1_1_election_1_1_vote.html"/>
@@ -362,7 +370,7 @@
 <keyword name="Star::ElectionResult" id="Star::ElectionResult_" ref="class_star_1_1_election_result.html"/>
 <keyword name="Star::ExpectedElectionResult" id="Star::ExpectedElectionResult_" ref="class_star_1_1_expected_election_result.html"/>
 <keyword name="Star::QualifierResult" id="Star::QualifierResult_" ref="class_star_1_1_qualifier_result.html"/>
-<keyword name="Rank" id="Rank_" ref="struct_rank.html"/>
+<keyword name="Star::Rank" id="Star::Rank_" ref="struct_star_1_1_rank.html"/>
 <keyword name="Star::ReferenceError" id="Star::ReferenceError_" ref="struct_star_1_1_reference_error.html"/>
 <keyword name="Star::Seat" id="Star::Seat_" ref="class_star_1_1_seat.html"/>
 <keyword name="Star::Election::Vote" id="Star::Election::Vote_" ref="struct_star_1_1_election_1_1_vote.html"/>
@@ -370,7 +378,7 @@
 <keyword name="Star" id="Star_" ref="namespace_star.html"/>
 <keyword name="AllowTrueTies" id="Star::Calculator::AllowTrueTies_aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4"/>
 <keyword name="anonymousName" id="Star::Election::Voter::anonymousName_a65ce92d8acc0ab7311bda20b57dd67ab" ref="struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab"/>
-<keyword name="Ascending" id="Rank::Ascending_a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
+<keyword name="Ascending" id="Star::Rank::Ascending_a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737"/>
 <keyword name="ballots() const" id="Star::Election::ballots_acf601bb45e12f78cb8e71b0b44df5382" ref="class_star_1_1_election.html#acf601bb45e12f78cb8e71b0b44df5382"/>
 <keyword name="build()" id="Star::Election::Builder::build_a40baafce47668205337c2e95fcb061a2" ref="class_star_1_1_election_1_1_builder.html#a40baafce47668205337c2e95fcb061a2"/>
 <keyword name="build()" id="Star::ExpectedElectionResult::Builder::build_af59ae157cfaa2a7f867eba676930aa69" ref="class_star_1_1_expected_election_result_1_1_builder.html#af59ae157cfaa2a7f867eba676930aa69"/>
@@ -380,11 +388,11 @@
 <keyword name="calculationDetail(const QString &amp;detail) const" id="Star::Calculator::calculationDetail_a52b84ed420df0d3a76a7ace42bdf9499" ref="class_star_1_1_calculator.html#a52b84ed420df0d3a76a7ace42bdf9499"/>
 <keyword name="Calculator(const Election *election=nullptr)" id="Star::Calculator::Calculator_aeb05b582a3952d742b14e416ecbdffb3" ref="class_star_1_1_calculator.html#aeb05b582a3952d742b14e416ecbdffb3"/>
 <keyword name="candidate" id="Star::Election::Vote::candidate_a95f08bb89a8fa5c0357fd9ec9ea34516" ref="struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516"/>
-<keyword name="candidates" id="Rank::candidates_af48a6c979b02f6a227b1834dbb825270" ref="struct_rank.html#af48a6c979b02f6a227b1834dbb825270"/>
+<keyword name="candidates" id="Star::Rank::candidates_ac9ac8e261e2273af941f0ae2655b8fff" ref="struct_star_1_1_rank.html#ac9ac8e261e2273af941f0ae2655b8fff"/>
 <keyword name="candidates() const" id="Star::Election::candidates_aa178779114e68786f136a15261648553" ref="class_star_1_1_election.html#aa178779114e68786f136a15261648553"/>
 <keyword name="CondorcetProtocol" id="Star::Calculator::CondorcetProtocol_aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6"/>
 <keyword name="DefactoWinner" id="Star::Calculator::DefactoWinner_aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
-<keyword name="Descending" id="Rank::Descending_a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
+<keyword name="Descending" id="Star::Rank::Descending_a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c"/>
 <keyword name="Election()" id="Star::Election::Election_af987a6afbb832c1189ca44f65e8e2820" ref="class_star_1_1_election.html#af987a6afbb832c1189ca44f65e8e2820"/>
 <keyword name="election() const" id="Star::Calculator::election_a3b87c963da5bbd90ca41b8108c7483dc" ref="class_star_1_1_calculator.html#a3b87c963da5bbd90ca41b8108c7483dc"/>
 <keyword name="election() const" id="Star::ElectionResult::election_a8f68336bc48b08169d1cf8dfabc16b45" ref="class_star_1_1_election_result.html#a8f68336bc48b08169d1cf8dfabc16b45"/>
@@ -427,16 +435,16 @@
 <keyword name="DefactoWinner" id="Star::Calculator::DefactoWinner_aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
 <keyword name="Options" id="Star::Calculator::Options_a7c4587d910e0b850a4969eeb5dd2bb82" ref="class_star_1_1_calculator.html#a7c4587d910e0b850a4969eeb5dd2bb82"/>
 <keyword name="options() const" id="Star::Calculator::options_a09ece675d7223192412dd33734ba2c47" ref="class_star_1_1_calculator.html#a09ece675d7223192412dd33734ba2c47"/>
-<keyword name="Order" id="Rank::Order_a6b96fd042b151df10534c32c25fa025b" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025b"/>
-<keyword name="Ascending" id="Rank::Ascending_a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
-<keyword name="Descending" id="Rank::Descending_a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
+<keyword name="Order" id="Star::Rank::Order_a91cf73d3fc0f9f4f13f701c5288cb8f8" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8"/>
+<keyword name="Ascending" id="Star::Rank::Ascending_a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8a38e3f935c5dc1a9b504876d12a195737"/>
+<keyword name="Descending" id="Star::Rank::Descending_a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c" ref="struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c"/>
 <keyword name="overflow() const" id="Star::QualifierResult::overflow_a03aa76b9476ac31a43c9c13c8bb5e3f0" ref="class_star_1_1_qualifier_result.html#a03aa76b9476ac31a43c9c13c8bb5e3f0"/>
 <keyword name="preference(const QString &amp;candidateA, const QString &amp;candidateB) const" id="Star::Election::Ballot::preference_a62517499f02bf2c55f145a5016911e10" ref="class_star_1_1_election_1_1_ballot.html#a62517499f02bf2c55f145a5016911e10"/>
 <keyword name="qualifierResult() const" id="Star::Seat::qualifierResult_a1e30251b27df283925872540193ae367" ref="class_star_1_1_seat.html#a1e30251b27df283925872540193ae367"/>
 <keyword name="QualifierResult()" id="Star::QualifierResult::QualifierResult_a04c4f99db692630516669dfc29c0126c" ref="class_star_1_1_qualifier_result.html#a04c4f99db692630516669dfc29c0126c"/>
 <keyword name="QualifierResult(const QSet&lt; QString &gt; &amp;firstAdv, const QSet&lt; QString &gt; &amp;secondAdv={})" id="Star::QualifierResult::QualifierResult_ab694fa8a460cf9922c115d9ec63c315d" ref="class_star_1_1_qualifier_result.html#ab694fa8a460cf9922c115d9ec63c315d"/>
 <keyword name="QualifierResult(const QString &amp;f, const QString &amp;s, bool sim, const QSet&lt; QString &gt; &amp;o)" id="Star::QualifierResult::QualifierResult_aeec33be97e5f6bc7a0fa335496889519" ref="class_star_1_1_qualifier_result.html#aeec33be97e5f6bc7a0fa335496889519"/>
-<keyword name="rankSort(const QMap&lt; QString, int &gt; &amp;valueMap, Order order=Descending)" id="Rank::rankSort_a045d31f070a338cb6c4efa551cb39123" ref="struct_rank.html#a045d31f070a338cb6c4efa551cb39123"/>
+<keyword name="rankSort(const QMap&lt; QString, int &gt; &amp;valueMap, Order order=Descending)" id="Star::Rank::rankSort_a1a985270d4ddb241dcfcf7d9f8b5911c" ref="struct_star_1_1_rank.html#a1a985270d4ddb241dcfcf7d9f8b5911c"/>
 <keyword name="reset()" id="Star::Election::Builder::reset_a0cbf39f01c404a386c816e1c46e763f7" ref="class_star_1_1_election_1_1_builder.html#a0cbf39f01c404a386c816e1c46e763f7"/>
 <keyword name="sameOutcomeAs(const ElectionResult &amp;result)" id="Star::ExpectedElectionResult::sameOutcomeAs_ad88301916f07cc58ed6369e252e10267" ref="class_star_1_1_expected_election_result.html#ad88301916f07cc58ed6369e252e10267"/>
 <keyword name="score" id="Star::Election::Vote::score_ad4d5ff8d14dfd75500d144e98214e793" ref="struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793"/>
@@ -461,7 +469,7 @@
 <keyword name="unresolved() const" id="Star::QualifierResult::unresolved_ade4e50df7911b1f2f0049448871f4b26" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
 <keyword name="unresolvedCandidates() const" id="Star::ElectionResult::unresolvedCandidates_a33c1216dace2f0fdd13552adcea2d200" ref="class_star_1_1_election_result.html#a33c1216dace2f0fdd13552adcea2d200"/>
 <keyword name="unresolvedSeat() const" id="Star::ElectionResult::unresolvedSeat_aa5c2acad77a819c4dcb4a564ab021463" ref="class_star_1_1_election_result.html#aa5c2acad77a819c4dcb4a564ab021463"/>
-<keyword name="value" id="Rank::value_a5e9dae40264d7d5bd9a67a70e74090dd" ref="struct_rank.html#a5e9dae40264d7d5bd9a67a70e74090dd"/>
+<keyword name="value" id="Star::Rank::value_a5dd13d44c0dce8825063706ccaf6d599" ref="struct_star_1_1_rank.html#a5dd13d44c0dce8825063706ccaf6d599"/>
 <keyword name="voter() const" id="Star::Election::Ballot::voter_acf1883dbd9f22508a9f89e186ad8da18" ref="class_star_1_1_election_1_1_ballot.html#acf1883dbd9f22508a9f89e186ad8da18"/>
 <keyword name="wBallot(const Voter &amp;voter, const QList&lt; Vote &gt; &amp;votes)" id="Star::Election::Builder::wBallot_a3ffe36206cabcff91ed07cbceff3fb33" ref="class_star_1_1_election_1_1_builder.html#a3ffe36206cabcff91ed07cbceff3fb33"/>
 <keyword name="winner() const" id="Star::Seat::winner_a2e41ed885a4e7af7edb7520a6fc62d19" ref="class_star_1_1_seat.html#a2e41ed885a4e7af7edb7520a6fc62d19"/>
@@ -601,15 +609,15 @@
 <file>search/search_r.png</file>
 <file>seat_8h_source.html</file>
 <file>splitbar.png</file>
-<file>struct_rank-members.html</file>
-<file>struct_rank.html</file>
-<file>struct_rank__coll__graph.svg</file>
 <file>struct_star_1_1_election_1_1_vote-members.html</file>
 <file>struct_star_1_1_election_1_1_vote.html</file>
 <file>struct_star_1_1_election_1_1_vote__coll__graph.svg</file>
 <file>struct_star_1_1_election_1_1_voter-members.html</file>
 <file>struct_star_1_1_election_1_1_voter.html</file>
 <file>struct_star_1_1_election_1_1_voter__coll__graph.svg</file>
+<file>struct_star_1_1_rank-members.html</file>
+<file>struct_star_1_1_rank.html</file>
+<file>struct_star_1_1_rank__coll__graph.svg</file>
 <file>struct_star_1_1_reference_error-members.html</file>
 <file>struct_star_1_1_reference_error.html</file>
 <file>struct_star_1_1_reference_error__coll__graph.svg</file>

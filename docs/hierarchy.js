@@ -10,7 +10,7 @@ var hierarchy =
       [ "Star::Calculator", "class_star_1_1_calculator.html", null ]
     ] ],
     [ "Star::QualifierResult", "class_star_1_1_qualifier_result.html", null ],
-    [ "Rank", "struct_rank.html", null ],
+    [ "Star::Rank", "struct_star_1_1_rank.html", null ],
     [ "Star::ReferenceError", "struct_star_1_1_reference_error.html", null ],
     [ "Star::Seat", "class_star_1_1_seat.html", null ],
     [ "Star::Election::Vote", "struct_star_1_1_election_1_1_vote.html", null ],

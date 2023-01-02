@@ -2,7 +2,7 @@ var searchData=
 [
   ['raise_0',['raise',['https://doc.qt.io/qt-6/qexception.html#raise',0,'QException']]],
   ['raiseerror_1',['raiseError',['https://doc.qt.io/qt-6/qxmlstreamreader.html#raiseError',0,'QXmlStreamReader']]],
-  ['ranksort_2',['rankSort',['../struct_rank.html#a045d31f070a338cb6c4efa551cb39123',1,'Rank']]],
+  ['ranksort_2',['rankSort',['../struct_star_1_1_rank.html#a1a985270d4ddb241dcfcf7d9f8b5911c',1,'Star::Rank']]],
   ['rawheader_3',['rawHeader',['https://doc.qt.io/qt-6/qnetworkproxy.html#rawHeader',0,'QNetworkProxy::rawHeader()'],['https://doc.qt.io/qt-6/qnetworkreply.html#rawHeader',0,'QNetworkReply::rawHeader()'],['https://doc.qt.io/qt-6/qnetworkrequest.html#rawHeader',0,'QNetworkRequest::rawHeader()']]],
   ['rawheaderlist_4',['rawHeaderList',['https://doc.qt.io/qt-6/qnetworkproxy.html#rawHeaderList',0,'QNetworkProxy::rawHeaderList()'],['https://doc.qt.io/qt-6/qnetworkreply.html#rawHeaderList',0,'QNetworkReply::rawHeaderList()'],['https://doc.qt.io/qt-6/qnetworkrequest.html#rawHeaderList',0,'QNetworkRequest::rawHeaderList()']]],
   ['rawheaderpairs_5',['rawHeaderPairs',['https://doc.qt.io/qt-6/qnetworkreply.html#rawHeaderPairs',0,'QNetworkReply']]],

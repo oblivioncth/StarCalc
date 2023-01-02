@@ -111,7 +111,7 @@ var searchData=
   ['deref_108',['deref',['https://doc.qt.io/qt-6/qatomicinteger.html#deref',0,'QAtomicInteger']]],
   ['derivekeypbkdf1_109',['deriveKeyPbkdf1',['https://doc.qt.io/qt-6/qpassworddigestor.html#deriveKeyPbkdf1',0,'QPasswordDigestor']]],
   ['derivekeypbkdf2_110',['deriveKeyPbkdf2',['https://doc.qt.io/qt-6/qpassworddigestor.html#deriveKeyPbkdf2',0,'QPasswordDigestor']]],
-  ['descending_111',['Descending',['../struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2',1,'Rank']]],
+  ['descending_111',['Descending',['../struct_star_1_1_rank.html#a91cf73d3fc0f9f4f13f701c5288cb8f8ac33d2d48f7e89d06f15506c85c479c3c',1,'Star::Rank']]],
   ['descendingorder_112',['DescendingOrder',['https://doc.qt.io/qt-6/qt.html#SortOrder-enum',0,'Qt']]],
   ['description_113',['description',['https://doc.qt.io/qt-6/qpropertybindingerror.html#description',0,'QPropertyBindingError::description()'],['https://doc.qt.io/qt-6/qcommandlineoption.html#description',0,'QCommandLineOption::description()']]],
   ['deselect_114',['Deselect',['https://doc.qt.io/qt-6/qitemselectionmodel.html#SelectionFlag-enum',0,'QItemSelectionModel']]],

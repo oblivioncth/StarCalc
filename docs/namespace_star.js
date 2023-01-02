@@ -5,6 +5,7 @@ var namespace_star =
     [ "ElectionResult", "class_star_1_1_election_result.html", "class_star_1_1_election_result" ],
     [ "ExpectedElectionResult", "class_star_1_1_expected_election_result.html", "class_star_1_1_expected_election_result" ],
     [ "QualifierResult", "class_star_1_1_qualifier_result.html", "class_star_1_1_qualifier_result" ],
+    [ "Rank", "struct_star_1_1_rank.html", "struct_star_1_1_rank" ],
     [ "ReferenceError", "struct_star_1_1_reference_error.html", "struct_star_1_1_reference_error" ],
     [ "Seat", "class_star_1_1_seat.html", "class_star_1_1_seat" ],
     [ "ReferenceErrorType", "namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931e", [
