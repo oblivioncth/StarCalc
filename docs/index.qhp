@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+<namespace>org.doxygen.Project</namespace>
+<virtualFolder>doc</virtualFolder>
+<filterSection>
+<filterAttribute>doxygen</filterAttribute>
+<toc>
+<section title="STARpp v0.2" ref="index.html">
+<section title="STAR++" ref="index.html">
+<section title="Requirements" ref="index.html#autotoc_md0"/>
+<section title="Packaging" ref="index.html#autotoc_md1"/>
+<section title="Getting Started" ref="index.html#autotoc_md2"/>
+<section title="Minimal Example" ref="index.html#autotoc_md3"/>
+<section title="Building From Source" ref="index.html#autotoc_md4">
+<section title="CMake Targets:" ref="index.html#autotoc_md5"/>
+<section title="CMake Install Components:" ref="index.html#autotoc_md6"/>
+<section title="CMake Options:" ref="index.html#autotoc_md7"/>
+<section title="Documentation:" ref="index.html#autotoc_md8"/>
+<section title="Tests:" ref="index.html#autotoc_md9"/>
+<section title="Package" ref="index.html#autotoc_md10"/>
+</section>
+<section title="Source Build as a Direct CMake Dependency" ref="index.html#autotoc_md11"/>
+</section>
+<section title="Namespaces" ref="namespaces.html">
+<section title="Star" ref="namespace_star.html">
+<section title="Calculator" ref="class_star_1_1_calculator.html">
+<section title="Options" ref="class_star_1_1_calculator.html#a7c4587d910e0b850a4969eeb5dd2bb82"/>
+<section title="Option" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0c">
+<section title="NoOptions" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9"/>
+<section title="AllowTrueTies" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4"/>
+<section title="CondorcetProtocol" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6"/>
+<section title="DefactoWinner" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
+</section>
+<section title="Calculator" ref="class_star_1_1_calculator.html#aeb05b582a3952d742b14e416ecbdffb3"/>
+<section title="~Calculator" ref="class_star_1_1_calculator.html#aca3190b0f192b79e7c75ae46ad9a10e4"/>
+<section title="calculateResult" ref="class_star_1_1_calculator.html#ac1e973724773ba235583ec6a2776855a"/>
+<section title="calculationDetail" ref="class_star_1_1_calculator.html#a52b84ed420df0d3a76a7ace42bdf9499"/>
+<section title="election" ref="class_star_1_1_calculator.html#a3b87c963da5bbd90ca41b8108c7483dc"/>
+<section title="options" ref="class_star_1_1_calculator.html#a09ece675d7223192412dd33734ba2c47"/>
+<section title="setElection" ref="class_star_1_1_calculator.html#af0c764fec74b7c0f79c977300ca7e87e"/>
+<section title="setOptions" ref="class_star_1_1_calculator.html#aa0ca4eecbbc77f9d3f6dcb9a655a9cb4"/>
+</section>
+<section title="Election" ref="class_star_1_1_election.html">
+<section title="Ballot" ref="class_star_1_1_election_1_1_ballot.html">
+<section title="preference" ref="class_star_1_1_election_1_1_ballot.html#a62517499f02bf2c55f145a5016911e10"/>
+<section title="score" ref="class_star_1_1_election_1_1_ballot.html#aee996e04b2450dec9cc59d34919d9339"/>
+<section title="voter" ref="class_star_1_1_election_1_1_ballot.html#acf1883dbd9f22508a9f89e186ad8da18"/>
+</section>
+<section title="Builder" ref="class_star_1_1_election_1_1_builder.html">
+<section title="Builder" ref="class_star_1_1_election_1_1_builder.html#a87c07e50a0946f94e4dee18cb4f3e0c1"/>
+<section title="build" ref="class_star_1_1_election_1_1_builder.html#a40baafce47668205337c2e95fcb061a2"/>
+<section title="reset" ref="class_star_1_1_election_1_1_builder.html#a0cbf39f01c404a386c816e1c46e763f7"/>
+<section title="wBallot" ref="class_star_1_1_election_1_1_builder.html#a3ffe36206cabcff91ed07cbceff3fb33"/>
+<section title="wName" ref="class_star_1_1_election_1_1_builder.html#a283a4aaf06041f854f0c4c9ff0d149b6"/>
+<section title="wSeatCount" ref="class_star_1_1_election_1_1_builder.html#add0caf99c52c39c328202e198786f0d7"/>
+</section>
+<section title="Vote" ref="struct_star_1_1_election_1_1_vote.html">
+<section title="candidate" ref="struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516"/>
+<section title="score" ref="struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793"/>
+</section>
+<section title="Voter" ref="struct_star_1_1_election_1_1_voter.html">
+<section title="anonymousName" ref="struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab"/>
+<section title="name" ref="struct_star_1_1_election_1_1_voter.html#a59900bba0c30d2d52ff1a784fc264559"/>
+</section>
+<section title="Election" ref="class_star_1_1_election.html#af987a6afbb832c1189ca44f65e8e2820"/>
+<section title="ballots" ref="class_star_1_1_election.html#acf601bb45e12f78cb8e71b0b44df5382"/>
+<section title="candidates" ref="class_star_1_1_election.html#aa178779114e68786f136a15261648553"/>
+<section title="isValid" ref="class_star_1_1_election.html#a1ba8ffa9b21630ea832e34abdab498b1"/>
+<section title="name" ref="class_star_1_1_election.html#a6877b5ec11447077fa21d98adab516e7"/>
+<section title="scoreRankings" ref="class_star_1_1_election.html#a277c89eb5df42787b0ad7dd266802981"/>
+<section title="seatCount" ref="class_star_1_1_election.html#a7cfb46fdf43b5dff575010cea215f971"/>
+<section title="totalScore" ref="class_star_1_1_election.html#a0f59c45c57a7a46a350dee145f3acc27"/>
+</section>
+<section title="ElectionResult" ref="class_star_1_1_election_result.html">
+<section title="ElectionResult" ref="class_star_1_1_election_result.html#a7c4c17ba6b87e30b6b9d7b76f458b4b7"/>
+<section title="ElectionResult" ref="class_star_1_1_election_result.html#a839224ef27d5e39f08579a20aae7beed"/>
+<section title="election" ref="class_star_1_1_election_result.html#a8f68336bc48b08169d1cf8dfabc16b45"/>
+<section title="filledSeatCount" ref="class_star_1_1_election_result.html#a67529fc475753305900ce253ebdb3fed"/>
+<section title="isComplete" ref="class_star_1_1_election_result.html#abd39d2ad01cc09adc330adbc5548a0d2"/>
+<section title="isNull" ref="class_star_1_1_election_result.html#a22515a15a4b407463f6c89d46c92fbfe"/>
+<section title="operator!=" ref="class_star_1_1_election_result.html#a58bf2c3576ef0abdabb3b633d39f53f9"/>
+<section title="operator==" ref="class_star_1_1_election_result.html#ad037dbe9427c76b63db88a2cbc7ab6be"/>
+<section title="seatAt" ref="class_star_1_1_election_result.html#a3d488ff33546aa1f505152bb97c77a6b"/>
+<section title="seatCount" ref="class_star_1_1_election_result.html#ad9f46b30c32cb6c4f3f85d68a68881b3"/>
+<section title="seats" ref="class_star_1_1_election_result.html#aed0dbdac05b68030bab6fe31e7e0cd8a"/>
+<section title="unfilledSeatCount" ref="class_star_1_1_election_result.html#a2c511dee315718c7e9ce3fa9d97b59b0"/>
+<section title="unresolvedCandidates" ref="class_star_1_1_election_result.html#a33c1216dace2f0fdd13552adcea2d200"/>
+<section title="unresolvedSeat" ref="class_star_1_1_election_result.html#aa5c2acad77a819c4dcb4a564ab021463"/>
+<section title="winners" ref="class_star_1_1_election_result.html#a4311329df10ff5060554421a0630a289"/>
+</section>
+<section title="ExpectedElectionResult" ref="class_star_1_1_expected_election_result.html">
+<section title="Builder" ref="class_star_1_1_expected_election_result_1_1_builder.html">
+<section title="Builder" ref="class_star_1_1_expected_election_result_1_1_builder.html#a573226d4e54189b22bfcd5f7ac2728c5"/>
+<section title="build" ref="class_star_1_1_expected_election_result_1_1_builder.html#af59ae157cfaa2a7f867eba676930aa69"/>
+<section title="wSeat" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1b8af314c21db569a97ce0fe89ce65c0"/>
+<section title="wWinner" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1824039de1f79e63a80073af071a4b78"/>
+</section>
+<section title="ExpectedElectionResult" ref="class_star_1_1_expected_election_result.html#a8d245e6f6db824c2b9bf7c3a793d5eff"/>
+<section title="isNull" ref="class_star_1_1_expected_election_result.html#a77fb3622a8bab6baf712e633f280e83d"/>
+<section title="operator!=" ref="class_star_1_1_expected_election_result.html#ac4127504866c7602eea01024f746e9cb"/>
+<section title="operator==" ref="class_star_1_1_expected_election_result.html#a5a930011529108c3d3f2eb35e5306cba"/>
+<section title="sameOutcomeAs" ref="class_star_1_1_expected_election_result.html#ad88301916f07cc58ed6369e252e10267"/>
+<section title="seatCount" ref="class_star_1_1_expected_election_result.html#aa40c9085bd9c7e7e17d0d392b4eb1ad0"/>
+<section title="seats" ref="class_star_1_1_expected_election_result.html#a2630d70c5f1c7f8f1229cb73b098750f"/>
+</section>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html">
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#a04c4f99db692630516669dfc29c0126c"/>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#ab694fa8a460cf9922c115d9ec63c315d"/>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#aeec33be97e5f6bc7a0fa335496889519"/>
+<section title="firstSeed" ref="class_star_1_1_qualifier_result.html#a160b132e4df9e9426a45b1c91aca7990"/>
+<section title="hasFirstSeed" ref="class_star_1_1_qualifier_result.html#ab55b2754932d76b3b98b01040da41d3e"/>
+<section title="hasSecondSeed" ref="class_star_1_1_qualifier_result.html#af26458127b7d6e2c29bc89e713a3a81c"/>
+<section title="isComplete" ref="class_star_1_1_qualifier_result.html#a970679a0e138e4f1cc3ed83b034cdc11"/>
+<section title="isNull" ref="class_star_1_1_qualifier_result.html#af1301ba303ef7e5e38694d33961e948d"/>
+<section title="isSeededSimultaneously" ref="class_star_1_1_qualifier_result.html#a9167a0915ebc2f0b21050618cf1a83f2"/>
+<section title="operator!=" ref="class_star_1_1_qualifier_result.html#a3b0ac3c63131028291b93e15ab3fd80c"/>
+<section title="operator==" ref="class_star_1_1_qualifier_result.html#a528ad45224cbb8b09d95ad913b93a85c"/>
+<section title="overflow" ref="class_star_1_1_qualifier_result.html#a03aa76b9476ac31a43c9c13c8bb5e3f0"/>
+<section title="secondSeed" ref="class_star_1_1_qualifier_result.html#a25782907fe1ed5d3ac0d09f00d46e13c"/>
+<section title="seeds" ref="class_star_1_1_qualifier_result.html#a9996bdcdf1271db1e4a85329f854acb2"/>
+<section title="unresolved" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
+</section>
+<section title="ReferenceError" ref="struct_star_1_1_reference_error.html">
+<section title="isValid" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
+<section title="error" ref="struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f"/>
+<section title="errorDetails" ref="struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e"/>
+<section title="type" ref="struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0"/>
+</section>
+<section title="Seat" ref="class_star_1_1_seat.html">
+<section title="Seat" ref="class_star_1_1_seat.html#a9f8e40a73607997a7f0c8448b3b3262a"/>
+<section title="Seat" ref="class_star_1_1_seat.html#a19a1a8569ec9be0dfda07d41e9a81715"/>
+<section title="Seat" ref="class_star_1_1_seat.html#ab3c72f86a43ebea2438f49eeed7597ec"/>
+<section title="isExceptionFilled" ref="class_star_1_1_seat.html#aad07c32643ac8b6ea9a1a644e2500833"/>
+<section title="isFilled" ref="class_star_1_1_seat.html#a6676400339e2531aa4a5a1812dad1bad"/>
+<section title="isNull" ref="class_star_1_1_seat.html#a6b8e3c846ea371795e6261b751ce63ab"/>
+<section title="isUpset" ref="class_star_1_1_seat.html#aff9a39db44c2419546c30621b0d6aac9"/>
+<section title="operator!=" ref="class_star_1_1_seat.html#ab6f78af82ac009eac441c5cddfe45843"/>
+<section title="operator==" ref="class_star_1_1_seat.html#a24b0b5bf94093973d4023086df9d117f"/>
+<section title="qualifierResult" ref="class_star_1_1_seat.html#a1e30251b27df283925872540193ae367"/>
+<section title="winner" ref="class_star_1_1_seat.html#a2e41ed885a4e7af7edb7520a6fc62d19"/>
+</section>
+<section title="ReferenceErrorType" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931e">
+<section title="NoError" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea"/>
+<section title="CategoryConfig" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8"/>
+<section title="BallotBox" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad"/>
+<section title="ExpectedResult" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5"/>
+<section title="CalcOptions" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea182b83cf2fbefac8c7ace84751a0682b"/>
+</section>
+<section title="calculatorOptionsFromReferenceInput" ref="namespace_star.html#a5198ffb853679ea2c9a7c3e8610b92e0"/>
+<section title="electionsFromReferenceInput" ref="namespace_star.html#adccc08cfb6f91e8b8942950acdaf1898"/>
+<section title="expectedResultsFromReferenceInput" ref="namespace_star.html#a77041ed6336d7d9803e8cfe736958a57"/>
+</section>
+</section>
+<section title="Classes" ref="annotated.html">
+<section title="Class List" ref="annotated.html">
+<section title="Star" ref="namespace_star.html">
+<section title="Calculator" ref="class_star_1_1_calculator.html">
+<section title="Options" ref="class_star_1_1_calculator.html#a7c4587d910e0b850a4969eeb5dd2bb82"/>
+<section title="Option" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0c">
+<section title="NoOptions" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9"/>
+<section title="AllowTrueTies" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4"/>
+<section title="CondorcetProtocol" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6"/>
+<section title="DefactoWinner" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
+</section>
+<section title="Calculator" ref="class_star_1_1_calculator.html#aeb05b582a3952d742b14e416ecbdffb3"/>
+<section title="~Calculator" ref="class_star_1_1_calculator.html#aca3190b0f192b79e7c75ae46ad9a10e4"/>
+<section title="calculateResult" ref="class_star_1_1_calculator.html#ac1e973724773ba235583ec6a2776855a"/>
+<section title="calculationDetail" ref="class_star_1_1_calculator.html#a52b84ed420df0d3a76a7ace42bdf9499"/>
+<section title="election" ref="class_star_1_1_calculator.html#a3b87c963da5bbd90ca41b8108c7483dc"/>
+<section title="options" ref="class_star_1_1_calculator.html#a09ece675d7223192412dd33734ba2c47"/>
+<section title="setElection" ref="class_star_1_1_calculator.html#af0c764fec74b7c0f79c977300ca7e87e"/>
+<section title="setOptions" ref="class_star_1_1_calculator.html#aa0ca4eecbbc77f9d3f6dcb9a655a9cb4"/>
+</section>
+<section title="Election" ref="class_star_1_1_election.html">
+<section title="Ballot" ref="class_star_1_1_election_1_1_ballot.html">
+<section title="preference" ref="class_star_1_1_election_1_1_ballot.html#a62517499f02bf2c55f145a5016911e10"/>
+<section title="score" ref="class_star_1_1_election_1_1_ballot.html#aee996e04b2450dec9cc59d34919d9339"/>
+<section title="voter" ref="class_star_1_1_election_1_1_ballot.html#acf1883dbd9f22508a9f89e186ad8da18"/>
+</section>
+<section title="Builder" ref="class_star_1_1_election_1_1_builder.html">
+<section title="Builder" ref="class_star_1_1_election_1_1_builder.html#a87c07e50a0946f94e4dee18cb4f3e0c1"/>
+<section title="build" ref="class_star_1_1_election_1_1_builder.html#a40baafce47668205337c2e95fcb061a2"/>
+<section title="reset" ref="class_star_1_1_election_1_1_builder.html#a0cbf39f01c404a386c816e1c46e763f7"/>
+<section title="wBallot" ref="class_star_1_1_election_1_1_builder.html#a3ffe36206cabcff91ed07cbceff3fb33"/>
+<section title="wName" ref="class_star_1_1_election_1_1_builder.html#a283a4aaf06041f854f0c4c9ff0d149b6"/>
+<section title="wSeatCount" ref="class_star_1_1_election_1_1_builder.html#add0caf99c52c39c328202e198786f0d7"/>
+</section>
+<section title="Vote" ref="struct_star_1_1_election_1_1_vote.html">
+<section title="candidate" ref="struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516"/>
+<section title="score" ref="struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793"/>
+</section>
+<section title="Voter" ref="struct_star_1_1_election_1_1_voter.html">
+<section title="anonymousName" ref="struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab"/>
+<section title="name" ref="struct_star_1_1_election_1_1_voter.html#a59900bba0c30d2d52ff1a784fc264559"/>
+</section>
+<section title="Election" ref="class_star_1_1_election.html#af987a6afbb832c1189ca44f65e8e2820"/>
+<section title="ballots" ref="class_star_1_1_election.html#acf601bb45e12f78cb8e71b0b44df5382"/>
+<section title="candidates" ref="class_star_1_1_election.html#aa178779114e68786f136a15261648553"/>
+<section title="isValid" ref="class_star_1_1_election.html#a1ba8ffa9b21630ea832e34abdab498b1"/>
+<section title="name" ref="class_star_1_1_election.html#a6877b5ec11447077fa21d98adab516e7"/>
+<section title="scoreRankings" ref="class_star_1_1_election.html#a277c89eb5df42787b0ad7dd266802981"/>
+<section title="seatCount" ref="class_star_1_1_election.html#a7cfb46fdf43b5dff575010cea215f971"/>
+<section title="totalScore" ref="class_star_1_1_election.html#a0f59c45c57a7a46a350dee145f3acc27"/>
+</section>
+<section title="ElectionResult" ref="class_star_1_1_election_result.html">
+<section title="ElectionResult" ref="class_star_1_1_election_result.html#a7c4c17ba6b87e30b6b9d7b76f458b4b7"/>
+<section title="ElectionResult" ref="class_star_1_1_election_result.html#a839224ef27d5e39f08579a20aae7beed"/>
+<section title="election" ref="class_star_1_1_election_result.html#a8f68336bc48b08169d1cf8dfabc16b45"/>
+<section title="filledSeatCount" ref="class_star_1_1_election_result.html#a67529fc475753305900ce253ebdb3fed"/>
+<section title="isComplete" ref="class_star_1_1_election_result.html#abd39d2ad01cc09adc330adbc5548a0d2"/>
+<section title="isNull" ref="class_star_1_1_election_result.html#a22515a15a4b407463f6c89d46c92fbfe"/>
+<section title="operator!=" ref="class_star_1_1_election_result.html#a58bf2c3576ef0abdabb3b633d39f53f9"/>
+<section title="operator==" ref="class_star_1_1_election_result.html#ad037dbe9427c76b63db88a2cbc7ab6be"/>
+<section title="seatAt" ref="class_star_1_1_election_result.html#a3d488ff33546aa1f505152bb97c77a6b"/>
+<section title="seatCount" ref="class_star_1_1_election_result.html#ad9f46b30c32cb6c4f3f85d68a68881b3"/>
+<section title="seats" ref="class_star_1_1_election_result.html#aed0dbdac05b68030bab6fe31e7e0cd8a"/>
+<section title="unfilledSeatCount" ref="class_star_1_1_election_result.html#a2c511dee315718c7e9ce3fa9d97b59b0"/>
+<section title="unresolvedCandidates" ref="class_star_1_1_election_result.html#a33c1216dace2f0fdd13552adcea2d200"/>
+<section title="unresolvedSeat" ref="class_star_1_1_election_result.html#aa5c2acad77a819c4dcb4a564ab021463"/>
+<section title="winners" ref="class_star_1_1_election_result.html#a4311329df10ff5060554421a0630a289"/>
+</section>
+<section title="ExpectedElectionResult" ref="class_star_1_1_expected_election_result.html">
+<section title="Builder" ref="class_star_1_1_expected_election_result_1_1_builder.html">
+<section title="Builder" ref="class_star_1_1_expected_election_result_1_1_builder.html#a573226d4e54189b22bfcd5f7ac2728c5"/>
+<section title="build" ref="class_star_1_1_expected_election_result_1_1_builder.html#af59ae157cfaa2a7f867eba676930aa69"/>
+<section title="wSeat" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1b8af314c21db569a97ce0fe89ce65c0"/>
+<section title="wWinner" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1824039de1f79e63a80073af071a4b78"/>
+</section>
+<section title="ExpectedElectionResult" ref="class_star_1_1_expected_election_result.html#a8d245e6f6db824c2b9bf7c3a793d5eff"/>
+<section title="isNull" ref="class_star_1_1_expected_election_result.html#a77fb3622a8bab6baf712e633f280e83d"/>
+<section title="operator!=" ref="class_star_1_1_expected_election_result.html#ac4127504866c7602eea01024f746e9cb"/>
+<section title="operator==" ref="class_star_1_1_expected_election_result.html#a5a930011529108c3d3f2eb35e5306cba"/>
+<section title="sameOutcomeAs" ref="class_star_1_1_expected_election_result.html#ad88301916f07cc58ed6369e252e10267"/>
+<section title="seatCount" ref="class_star_1_1_expected_election_result.html#aa40c9085bd9c7e7e17d0d392b4eb1ad0"/>
+<section title="seats" ref="class_star_1_1_expected_election_result.html#a2630d70c5f1c7f8f1229cb73b098750f"/>
+</section>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html">
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#a04c4f99db692630516669dfc29c0126c"/>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#ab694fa8a460cf9922c115d9ec63c315d"/>
+<section title="QualifierResult" ref="class_star_1_1_qualifier_result.html#aeec33be97e5f6bc7a0fa335496889519"/>
+<section title="firstSeed" ref="class_star_1_1_qualifier_result.html#a160b132e4df9e9426a45b1c91aca7990"/>
+<section title="hasFirstSeed" ref="class_star_1_1_qualifier_result.html#ab55b2754932d76b3b98b01040da41d3e"/>
+<section title="hasSecondSeed" ref="class_star_1_1_qualifier_result.html#af26458127b7d6e2c29bc89e713a3a81c"/>
+<section title="isComplete" ref="class_star_1_1_qualifier_result.html#a970679a0e138e4f1cc3ed83b034cdc11"/>
+<section title="isNull" ref="class_star_1_1_qualifier_result.html#af1301ba303ef7e5e38694d33961e948d"/>
+<section title="isSeededSimultaneously" ref="class_star_1_1_qualifier_result.html#a9167a0915ebc2f0b21050618cf1a83f2"/>
+<section title="operator!=" ref="class_star_1_1_qualifier_result.html#a3b0ac3c63131028291b93e15ab3fd80c"/>
+<section title="operator==" ref="class_star_1_1_qualifier_result.html#a528ad45224cbb8b09d95ad913b93a85c"/>
+<section title="overflow" ref="class_star_1_1_qualifier_result.html#a03aa76b9476ac31a43c9c13c8bb5e3f0"/>
+<section title="secondSeed" ref="class_star_1_1_qualifier_result.html#a25782907fe1ed5d3ac0d09f00d46e13c"/>
+<section title="seeds" ref="class_star_1_1_qualifier_result.html#a9996bdcdf1271db1e4a85329f854acb2"/>
+<section title="unresolved" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
+</section>
+<section title="ReferenceError" ref="struct_star_1_1_reference_error.html">
+<section title="isValid" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
+<section title="error" ref="struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f"/>
+<section title="errorDetails" ref="struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e"/>
+<section title="type" ref="struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0"/>
+</section>
+<section title="Seat" ref="class_star_1_1_seat.html">
+<section title="Seat" ref="class_star_1_1_seat.html#a9f8e40a73607997a7f0c8448b3b3262a"/>
+<section title="Seat" ref="class_star_1_1_seat.html#a19a1a8569ec9be0dfda07d41e9a81715"/>
+<section title="Seat" ref="class_star_1_1_seat.html#ab3c72f86a43ebea2438f49eeed7597ec"/>
+<section title="isExceptionFilled" ref="class_star_1_1_seat.html#aad07c32643ac8b6ea9a1a644e2500833"/>
+<section title="isFilled" ref="class_star_1_1_seat.html#a6676400339e2531aa4a5a1812dad1bad"/>
+<section title="isNull" ref="class_star_1_1_seat.html#a6b8e3c846ea371795e6261b751ce63ab"/>
+<section title="isUpset" ref="class_star_1_1_seat.html#aff9a39db44c2419546c30621b0d6aac9"/>
+<section title="operator!=" ref="class_star_1_1_seat.html#ab6f78af82ac009eac441c5cddfe45843"/>
+<section title="operator==" ref="class_star_1_1_seat.html#a24b0b5bf94093973d4023086df9d117f"/>
+<section title="qualifierResult" ref="class_star_1_1_seat.html#a1e30251b27df283925872540193ae367"/>
+<section title="winner" ref="class_star_1_1_seat.html#a2e41ed885a4e7af7edb7520a6fc62d19"/>
+</section>
+</section>
+<section title="Rank" ref="struct_rank.html">
+<section title="Order" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025b">
+<section title="Ascending" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
+<section title="Descending" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
+</section>
+<section title="candidates" ref="struct_rank.html#af48a6c979b02f6a227b1834dbb825270"/>
+<section title="value" ref="struct_rank.html#a5e9dae40264d7d5bd9a67a70e74090dd"/>
+</section>
+</section>
+<section title="Class Index" ref="classes.html"/>
+<section title="Class Hierarchy" ref="hierarchy.html">
+<section title="Star::Election::Ballot" ref="class_star_1_1_election_1_1_ballot.html"/>
+<section title="Star::Election::Builder" ref="class_star_1_1_election_1_1_builder.html"/>
+<section title="Star::ExpectedElectionResult::Builder" ref="class_star_1_1_expected_election_result_1_1_builder.html"/>
+<section title="Star::Election" ref="class_star_1_1_election.html"/>
+<section title="Star::ElectionResult" ref="class_star_1_1_election_result.html"/>
+<section title="Star::ExpectedElectionResult" ref="class_star_1_1_expected_election_result.html"/>
+<section title="QObject" ref="qobject.html">
+<section title="Star::Calculator" ref="class_star_1_1_calculator.html"/>
+</section>
+<section title="Star::QualifierResult" ref="class_star_1_1_qualifier_result.html"/>
+<section title="Rank" ref="struct_rank.html"/>
+<section title="Star::ReferenceError" ref="struct_star_1_1_reference_error.html"/>
+<section title="Star::Seat" ref="class_star_1_1_seat.html"/>
+<section title="Star::Election::Vote" ref="struct_star_1_1_election_1_1_vote.html"/>
+<section title="Star::Election::Voter" ref="struct_star_1_1_election_1_1_voter.html"/>
+</section>
+<section title="Class Members" ref="functions.html">
+<section title="All" ref="functions.html"/>
+<section title="Functions" ref="functions_func.html"/>
+<section title="Variables" ref="functions_vars.html"/>
+<section title="Typedefs" ref="functions_type.html"/>
+<section title="Enumerations" ref="functions_enum.html"/>
+<section title="Enumerator" ref="functions_eval.html"/>
+</section>
+</section>
+<section title="Files" ref="files.html">
+<section title="File List" ref="files.html">
+<section title="lib" ref="dir_9e985f2bac74fac21e961b4ee2414d07.html">
+<section title="include" ref="dir_c7843cf018fc83a355b444fd2a8715d6.html">
+<section title="star" ref="dir_da0dc239955c7b5a26a22b6729f7f3dd.html">
+<section title="calculator.h" ref="calculator_8h_source.html"/>
+<section title="election.h" ref="election_8h_source.html"/>
+<section title="electionresult.h" ref="electionresult_8h_source.html"/>
+<section title="expectedelectionresult.h" ref="expectedelectionresult_8h_source.html"/>
+<section title="qualifierresult.h" ref="qualifierresult_8h_source.html"/>
+<section title="rank.h" ref="rank_8h_source.html"/>
+<section title="reference.h" ref="reference_8h.html">
+<section title="Star::ReferenceError" ref="struct_star_1_1_reference_error.html">
+<section title="isValid" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
+<section title="error" ref="struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f"/>
+<section title="errorDetails" ref="struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e"/>
+<section title="type" ref="struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0"/>
+</section>
+<section title="ReferenceErrorType" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931e">
+<section title="NoError" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea"/>
+<section title="CategoryConfig" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8"/>
+<section title="BallotBox" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad"/>
+<section title="ExpectedResult" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5"/>
+<section title="CalcOptions" ref="reference_8h.html#ac6af9d20b9ae3b0c169b56fac35d931ea182b83cf2fbefac8c7ace84751a0682b"/>
+</section>
+<section title="calculatorOptionsFromReferenceInput" ref="reference_8h.html#a5198ffb853679ea2c9a7c3e8610b92e0"/>
+<section title="electionsFromReferenceInput" ref="reference_8h.html#adccc08cfb6f91e8b8942950acdaf1898"/>
+<section title="expectedResultsFromReferenceInput" ref="reference_8h.html#a77041ed6336d7d9803e8cfe736958a57"/>
+</section>
+<section title="seat.h" ref="seat_8h_source.html"/>
+</section>
+</section>
+<section title="src" ref="dir_289e4f81dac3e5b937382db529d2b138.html">
+<section title="reference" ref="dir_063152f13f2da9c9eb5a4278a9540531.html">
+<section title="ballotbox_p.h" ref="ballotbox__p_8h_source.html"/>
+<section title="calculatoroptions_p.h" ref="calculatoroptions__p_8h_source.html"/>
+<section title="categoryconfig_p.h" ref="categoryconfig__p_8h_source.html"/>
+<section title="resultset_p.h" ref="resultset__p_8h_source.html"/>
+</section>
+<section title="headtoheadresults.h" ref="headtoheadresults_8h_source.html"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</toc>
+<keywords>
+<keyword name="Star::Election::Ballot" id="Star::Election::Ballot_" ref="class_star_1_1_election_1_1_ballot.html"/>
+<keyword name="Star::Election::Builder" id="Star::Election::Builder_" ref="class_star_1_1_election_1_1_builder.html"/>
+<keyword name="Star::ExpectedElectionResult::Builder" id="Star::ExpectedElectionResult::Builder_" ref="class_star_1_1_expected_election_result_1_1_builder.html"/>
+<keyword name="Star::Calculator" id="Star::Calculator_" ref="class_star_1_1_calculator.html"/>
+<keyword name="Star::Election" id="Star::Election_" ref="class_star_1_1_election.html"/>
+<keyword name="Star::ElectionResult" id="Star::ElectionResult_" ref="class_star_1_1_election_result.html"/>
+<keyword name="Star::ExpectedElectionResult" id="Star::ExpectedElectionResult_" ref="class_star_1_1_expected_election_result.html"/>
+<keyword name="Star::QualifierResult" id="Star::QualifierResult_" ref="class_star_1_1_qualifier_result.html"/>
+<keyword name="Rank" id="Rank_" ref="struct_rank.html"/>
+<keyword name="Star::ReferenceError" id="Star::ReferenceError_" ref="struct_star_1_1_reference_error.html"/>
+<keyword name="Star::Seat" id="Star::Seat_" ref="class_star_1_1_seat.html"/>
+<keyword name="Star::Election::Vote" id="Star::Election::Vote_" ref="struct_star_1_1_election_1_1_vote.html"/>
+<keyword name="Star::Election::Voter" id="Star::Election::Voter_" ref="struct_star_1_1_election_1_1_voter.html"/>
+<keyword name="Star" id="Star_" ref="namespace_star.html"/>
+<keyword name="AllowTrueTies" id="Star::Calculator::AllowTrueTies_aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4"/>
+<keyword name="anonymousName" id="Star::Election::Voter::anonymousName_a65ce92d8acc0ab7311bda20b57dd67ab" ref="struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab"/>
+<keyword name="Ascending" id="Rank::Ascending_a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
+<keyword name="ballots() const" id="Star::Election::ballots_acf601bb45e12f78cb8e71b0b44df5382" ref="class_star_1_1_election.html#acf601bb45e12f78cb8e71b0b44df5382"/>
+<keyword name="build()" id="Star::Election::Builder::build_a40baafce47668205337c2e95fcb061a2" ref="class_star_1_1_election_1_1_builder.html#a40baafce47668205337c2e95fcb061a2"/>
+<keyword name="build()" id="Star::ExpectedElectionResult::Builder::build_af59ae157cfaa2a7f867eba676930aa69" ref="class_star_1_1_expected_election_result_1_1_builder.html#af59ae157cfaa2a7f867eba676930aa69"/>
+<keyword name="Builder(const QString &amp;name=QString())" id="Star::Election::Builder::Builder_a87c07e50a0946f94e4dee18cb4f3e0c1" ref="class_star_1_1_election_1_1_builder.html#a87c07e50a0946f94e4dee18cb4f3e0c1"/>
+<keyword name="Builder()" id="Star::ExpectedElectionResult::Builder::Builder_a573226d4e54189b22bfcd5f7ac2728c5" ref="class_star_1_1_expected_election_result_1_1_builder.html#a573226d4e54189b22bfcd5f7ac2728c5"/>
+<keyword name="calculateResult()" id="Star::Calculator::calculateResult_ac1e973724773ba235583ec6a2776855a" ref="class_star_1_1_calculator.html#ac1e973724773ba235583ec6a2776855a"/>
+<keyword name="calculationDetail(const QString &amp;detail) const" id="Star::Calculator::calculationDetail_a52b84ed420df0d3a76a7ace42bdf9499" ref="class_star_1_1_calculator.html#a52b84ed420df0d3a76a7ace42bdf9499"/>
+<keyword name="Calculator(const Election *election=nullptr)" id="Star::Calculator::Calculator_aeb05b582a3952d742b14e416ecbdffb3" ref="class_star_1_1_calculator.html#aeb05b582a3952d742b14e416ecbdffb3"/>
+<keyword name="candidate" id="Star::Election::Vote::candidate_a95f08bb89a8fa5c0357fd9ec9ea34516" ref="struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516"/>
+<keyword name="candidates" id="Rank::candidates_af48a6c979b02f6a227b1834dbb825270" ref="struct_rank.html#af48a6c979b02f6a227b1834dbb825270"/>
+<keyword name="candidates() const" id="Star::Election::candidates_aa178779114e68786f136a15261648553" ref="class_star_1_1_election.html#aa178779114e68786f136a15261648553"/>
+<keyword name="CondorcetProtocol" id="Star::Calculator::CondorcetProtocol_aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6"/>
+<keyword name="DefactoWinner" id="Star::Calculator::DefactoWinner_aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
+<keyword name="Descending" id="Rank::Descending_a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
+<keyword name="Election()" id="Star::Election::Election_af987a6afbb832c1189ca44f65e8e2820" ref="class_star_1_1_election.html#af987a6afbb832c1189ca44f65e8e2820"/>
+<keyword name="election() const" id="Star::Calculator::election_a3b87c963da5bbd90ca41b8108c7483dc" ref="class_star_1_1_calculator.html#a3b87c963da5bbd90ca41b8108c7483dc"/>
+<keyword name="election() const" id="Star::ElectionResult::election_a8f68336bc48b08169d1cf8dfabc16b45" ref="class_star_1_1_election_result.html#a8f68336bc48b08169d1cf8dfabc16b45"/>
+<keyword name="ElectionResult()" id="Star::ElectionResult::ElectionResult_a7c4c17ba6b87e30b6b9d7b76f458b4b7" ref="class_star_1_1_election_result.html#a7c4c17ba6b87e30b6b9d7b76f458b4b7"/>
+<keyword name="ElectionResult(const Election *election, const QList&lt; Seat &gt; &amp;seats)" id="Star::ElectionResult::ElectionResult_a839224ef27d5e39f08579a20aae7beed" ref="class_star_1_1_election_result.html#a839224ef27d5e39f08579a20aae7beed"/>
+<keyword name="error" id="Star::ReferenceError::error_aacd1114f6666782ee77eee0db560608f" ref="struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f"/>
+<keyword name="errorDetails" id="Star::ReferenceError::errorDetails_a450ff349f34fc5f0044a386bf2991b9e" ref="struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e"/>
+<keyword name="ExpectedElectionResult()" id="Star::ExpectedElectionResult::ExpectedElectionResult_a8d245e6f6db824c2b9bf7c3a793d5eff" ref="class_star_1_1_expected_election_result.html#a8d245e6f6db824c2b9bf7c3a793d5eff"/>
+<keyword name="filledSeatCount() const" id="Star::ElectionResult::filledSeatCount_a67529fc475753305900ce253ebdb3fed" ref="class_star_1_1_election_result.html#a67529fc475753305900ce253ebdb3fed"/>
+<keyword name="firstSeed() const" id="Star::QualifierResult::firstSeed_a160b132e4df9e9426a45b1c91aca7990" ref="class_star_1_1_qualifier_result.html#a160b132e4df9e9426a45b1c91aca7990"/>
+<keyword name="hasFirstSeed() const" id="Star::QualifierResult::hasFirstSeed_ab55b2754932d76b3b98b01040da41d3e" ref="class_star_1_1_qualifier_result.html#ab55b2754932d76b3b98b01040da41d3e"/>
+<keyword name="hasSecondSeed() const" id="Star::QualifierResult::hasSecondSeed_af26458127b7d6e2c29bc89e713a3a81c" ref="class_star_1_1_qualifier_result.html#af26458127b7d6e2c29bc89e713a3a81c"/>
+<keyword name="isComplete() const" id="Star::ElectionResult::isComplete_abd39d2ad01cc09adc330adbc5548a0d2" ref="class_star_1_1_election_result.html#abd39d2ad01cc09adc330adbc5548a0d2"/>
+<keyword name="isComplete() const" id="Star::QualifierResult::isComplete_a970679a0e138e4f1cc3ed83b034cdc11" ref="class_star_1_1_qualifier_result.html#a970679a0e138e4f1cc3ed83b034cdc11"/>
+<keyword name="isExceptionFilled() const" id="Star::Seat::isExceptionFilled_aad07c32643ac8b6ea9a1a644e2500833" ref="class_star_1_1_seat.html#aad07c32643ac8b6ea9a1a644e2500833"/>
+<keyword name="isFilled() const" id="Star::Seat::isFilled_a6676400339e2531aa4a5a1812dad1bad" ref="class_star_1_1_seat.html#a6676400339e2531aa4a5a1812dad1bad"/>
+<keyword name="isNull() const" id="Star::ElectionResult::isNull_a22515a15a4b407463f6c89d46c92fbfe" ref="class_star_1_1_election_result.html#a22515a15a4b407463f6c89d46c92fbfe"/>
+<keyword name="isNull() const" id="Star::ExpectedElectionResult::isNull_a77fb3622a8bab6baf712e633f280e83d" ref="class_star_1_1_expected_election_result.html#a77fb3622a8bab6baf712e633f280e83d"/>
+<keyword name="isNull() const" id="Star::QualifierResult::isNull_af1301ba303ef7e5e38694d33961e948d" ref="class_star_1_1_qualifier_result.html#af1301ba303ef7e5e38694d33961e948d"/>
+<keyword name="isNull() const" id="Star::Seat::isNull_a6b8e3c846ea371795e6261b751ce63ab" ref="class_star_1_1_seat.html#a6b8e3c846ea371795e6261b751ce63ab"/>
+<keyword name="isSeededSimultaneously() const" id="Star::QualifierResult::isSeededSimultaneously_a9167a0915ebc2f0b21050618cf1a83f2" ref="class_star_1_1_qualifier_result.html#a9167a0915ebc2f0b21050618cf1a83f2"/>
+<keyword name="isUpset() const" id="Star::Seat::isUpset_aff9a39db44c2419546c30621b0d6aac9" ref="class_star_1_1_seat.html#aff9a39db44c2419546c30621b0d6aac9"/>
+<keyword name="isValid() const" id="Star::Election::isValid_a1ba8ffa9b21630ea832e34abdab498b1" ref="class_star_1_1_election.html#a1ba8ffa9b21630ea832e34abdab498b1"/>
+<keyword name="isValid()" id="Star::ReferenceError::isValid_adeaaf0a2ab3ba710f0e4c003b26b7b7e" ref="struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e"/>
+<keyword name="name" id="Star::Election::Voter::name_a59900bba0c30d2d52ff1a784fc264559" ref="struct_star_1_1_election_1_1_voter.html#a59900bba0c30d2d52ff1a784fc264559"/>
+<keyword name="name() const" id="Star::Election::name_a6877b5ec11447077fa21d98adab516e7" ref="class_star_1_1_election.html#a6877b5ec11447077fa21d98adab516e7"/>
+<keyword name="NoOptions" id="Star::Calculator::NoOptions_aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9"/>
+<keyword name="operator!=(const ElectionResult &amp;other) const" id="Star::ElectionResult::operator!=_a58bf2c3576ef0abdabb3b633d39f53f9" ref="class_star_1_1_election_result.html#a58bf2c3576ef0abdabb3b633d39f53f9"/>
+<keyword name="operator!=(const ElectionResult &amp;result) const" id="Star::ExpectedElectionResult::operator!=_ac4127504866c7602eea01024f746e9cb" ref="class_star_1_1_expected_election_result.html#ac4127504866c7602eea01024f746e9cb"/>
+<keyword name="operator!=(const QualifierResult &amp;other) const" id="Star::QualifierResult::operator!=_a3b0ac3c63131028291b93e15ab3fd80c" ref="class_star_1_1_qualifier_result.html#a3b0ac3c63131028291b93e15ab3fd80c"/>
+<keyword name="operator!=(const Seat &amp;other) const" id="Star::Seat::operator!=_ab6f78af82ac009eac441c5cddfe45843" ref="class_star_1_1_seat.html#ab6f78af82ac009eac441c5cddfe45843"/>
+<keyword name="operator==(const ElectionResult &amp;other) const" id="Star::ElectionResult::operator==_ad037dbe9427c76b63db88a2cbc7ab6be" ref="class_star_1_1_election_result.html#ad037dbe9427c76b63db88a2cbc7ab6be"/>
+<keyword name="operator==(const ElectionResult &amp;result) const" id="Star::ExpectedElectionResult::operator==_a5a930011529108c3d3f2eb35e5306cba" ref="class_star_1_1_expected_election_result.html#a5a930011529108c3d3f2eb35e5306cba"/>
+<keyword name="operator==(const QualifierResult &amp;other) const" id="Star::QualifierResult::operator==_a528ad45224cbb8b09d95ad913b93a85c" ref="class_star_1_1_qualifier_result.html#a528ad45224cbb8b09d95ad913b93a85c"/>
+<keyword name="operator==(const Seat &amp;other) const" id="Star::Seat::operator==_a24b0b5bf94093973d4023086df9d117f" ref="class_star_1_1_seat.html#a24b0b5bf94093973d4023086df9d117f"/>
+<keyword name="Option" id="Star::Calculator::Option_aa661189037a363c846032b37c4f03e0c" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0c"/>
+<keyword name="NoOptions" id="Star::Calculator::NoOptions_aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca7786bc2b296c6ebdd74948fba54433c9"/>
+<keyword name="AllowTrueTies" id="Star::Calculator::AllowTrueTies_aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca630d64f2d180df040fd74957530311b4"/>
+<keyword name="CondorcetProtocol" id="Star::Calculator::CondorcetProtocol_aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0caf36d9f0c927e76bb8aeb9ddb90a81cb6"/>
+<keyword name="DefactoWinner" id="Star::Calculator::DefactoWinner_aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf" ref="class_star_1_1_calculator.html#aa661189037a363c846032b37c4f03e0ca997081b3afe7388fad19f1998bf80eaf"/>
+<keyword name="Options" id="Star::Calculator::Options_a7c4587d910e0b850a4969eeb5dd2bb82" ref="class_star_1_1_calculator.html#a7c4587d910e0b850a4969eeb5dd2bb82"/>
+<keyword name="options() const" id="Star::Calculator::options_a09ece675d7223192412dd33734ba2c47" ref="class_star_1_1_calculator.html#a09ece675d7223192412dd33734ba2c47"/>
+<keyword name="Order" id="Rank::Order_a6b96fd042b151df10534c32c25fa025b" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025b"/>
+<keyword name="Ascending" id="Rank::Ascending_a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba9e6b11c38855586ee074cadb4126b165"/>
+<keyword name="Descending" id="Rank::Descending_a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2" ref="struct_rank.html#a6b96fd042b151df10534c32c25fa025ba8ce2a4362903f7ad1f0bdfce365055e2"/>
+<keyword name="overflow() const" id="Star::QualifierResult::overflow_a03aa76b9476ac31a43c9c13c8bb5e3f0" ref="class_star_1_1_qualifier_result.html#a03aa76b9476ac31a43c9c13c8bb5e3f0"/>
+<keyword name="preference(const QString &amp;candidateA, const QString &amp;candidateB) const" id="Star::Election::Ballot::preference_a62517499f02bf2c55f145a5016911e10" ref="class_star_1_1_election_1_1_ballot.html#a62517499f02bf2c55f145a5016911e10"/>
+<keyword name="qualifierResult() const" id="Star::Seat::qualifierResult_a1e30251b27df283925872540193ae367" ref="class_star_1_1_seat.html#a1e30251b27df283925872540193ae367"/>
+<keyword name="QualifierResult()" id="Star::QualifierResult::QualifierResult_a04c4f99db692630516669dfc29c0126c" ref="class_star_1_1_qualifier_result.html#a04c4f99db692630516669dfc29c0126c"/>
+<keyword name="QualifierResult(const QSet&lt; QString &gt; &amp;firstAdv, const QSet&lt; QString &gt; &amp;secondAdv={})" id="Star::QualifierResult::QualifierResult_ab694fa8a460cf9922c115d9ec63c315d" ref="class_star_1_1_qualifier_result.html#ab694fa8a460cf9922c115d9ec63c315d"/>
+<keyword name="QualifierResult(const QString &amp;f, const QString &amp;s, bool sim, const QSet&lt; QString &gt; &amp;o)" id="Star::QualifierResult::QualifierResult_aeec33be97e5f6bc7a0fa335496889519" ref="class_star_1_1_qualifier_result.html#aeec33be97e5f6bc7a0fa335496889519"/>
+<keyword name="rankSort(const QMap&lt; QString, int &gt; &amp;valueMap, Order order=Descending)" id="Rank::rankSort_a045d31f070a338cb6c4efa551cb39123" ref="struct_rank.html#a045d31f070a338cb6c4efa551cb39123"/>
+<keyword name="reset()" id="Star::Election::Builder::reset_a0cbf39f01c404a386c816e1c46e763f7" ref="class_star_1_1_election_1_1_builder.html#a0cbf39f01c404a386c816e1c46e763f7"/>
+<keyword name="sameOutcomeAs(const ElectionResult &amp;result)" id="Star::ExpectedElectionResult::sameOutcomeAs_ad88301916f07cc58ed6369e252e10267" ref="class_star_1_1_expected_election_result.html#ad88301916f07cc58ed6369e252e10267"/>
+<keyword name="score" id="Star::Election::Vote::score_ad4d5ff8d14dfd75500d144e98214e793" ref="struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793"/>
+<keyword name="score(const QString &amp;candidate) const" id="Star::Election::Ballot::score_aee996e04b2450dec9cc59d34919d9339" ref="class_star_1_1_election_1_1_ballot.html#aee996e04b2450dec9cc59d34919d9339"/>
+<keyword name="scoreRankings() const" id="Star::Election::scoreRankings_a277c89eb5df42787b0ad7dd266802981" ref="class_star_1_1_election.html#a277c89eb5df42787b0ad7dd266802981"/>
+<keyword name="Seat()" id="Star::Seat::Seat_a9f8e40a73607997a7f0c8448b3b3262a" ref="class_star_1_1_seat.html#a9f8e40a73607997a7f0c8448b3b3262a"/>
+<keyword name="Seat(const QualifierResult &amp;qualifierResult)" id="Star::Seat::Seat_a19a1a8569ec9be0dfda07d41e9a81715" ref="class_star_1_1_seat.html#a19a1a8569ec9be0dfda07d41e9a81715"/>
+<keyword name="Seat(const QString &amp;winner, const QualifierResult &amp;qualifierResult=QualifierResult())" id="Star::Seat::Seat_ab3c72f86a43ebea2438f49eeed7597ec" ref="class_star_1_1_seat.html#ab3c72f86a43ebea2438f49eeed7597ec"/>
+<keyword name="seatAt(qsizetype i) const" id="Star::ElectionResult::seatAt_a3d488ff33546aa1f505152bb97c77a6b" ref="class_star_1_1_election_result.html#a3d488ff33546aa1f505152bb97c77a6b"/>
+<keyword name="seatCount() const" id="Star::Election::seatCount_a7cfb46fdf43b5dff575010cea215f971" ref="class_star_1_1_election.html#a7cfb46fdf43b5dff575010cea215f971"/>
+<keyword name="seatCount() const" id="Star::ElectionResult::seatCount_ad9f46b30c32cb6c4f3f85d68a68881b3" ref="class_star_1_1_election_result.html#ad9f46b30c32cb6c4f3f85d68a68881b3"/>
+<keyword name="seatCount() const" id="Star::ExpectedElectionResult::seatCount_aa40c9085bd9c7e7e17d0d392b4eb1ad0" ref="class_star_1_1_expected_election_result.html#aa40c9085bd9c7e7e17d0d392b4eb1ad0"/>
+<keyword name="seats() const" id="Star::ElectionResult::seats_aed0dbdac05b68030bab6fe31e7e0cd8a" ref="class_star_1_1_election_result.html#aed0dbdac05b68030bab6fe31e7e0cd8a"/>
+<keyword name="seats() const" id="Star::ExpectedElectionResult::seats_a2630d70c5f1c7f8f1229cb73b098750f" ref="class_star_1_1_expected_election_result.html#a2630d70c5f1c7f8f1229cb73b098750f"/>
+<keyword name="secondSeed() const" id="Star::QualifierResult::secondSeed_a25782907fe1ed5d3ac0d09f00d46e13c" ref="class_star_1_1_qualifier_result.html#a25782907fe1ed5d3ac0d09f00d46e13c"/>
+<keyword name="seeds()" id="Star::QualifierResult::seeds_a9996bdcdf1271db1e4a85329f854acb2" ref="class_star_1_1_qualifier_result.html#a9996bdcdf1271db1e4a85329f854acb2"/>
+<keyword name="setElection(const Election *election)" id="Star::Calculator::setElection_af0c764fec74b7c0f79c977300ca7e87e" ref="class_star_1_1_calculator.html#af0c764fec74b7c0f79c977300ca7e87e"/>
+<keyword name="setOptions(Options options)" id="Star::Calculator::setOptions_aa0ca4eecbbc77f9d3f6dcb9a655a9cb4" ref="class_star_1_1_calculator.html#aa0ca4eecbbc77f9d3f6dcb9a655a9cb4"/>
+<keyword name="totalScore(const QString &amp;candidate) const" id="Star::Election::totalScore_a0f59c45c57a7a46a350dee145f3acc27" ref="class_star_1_1_election.html#a0f59c45c57a7a46a350dee145f3acc27"/>
+<keyword name="type" id="Star::ReferenceError::type_a6e7e73cc1790367515aeb4ace43a7cd0" ref="struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0"/>
+<keyword name="unfilledSeatCount() const" id="Star::ElectionResult::unfilledSeatCount_a2c511dee315718c7e9ce3fa9d97b59b0" ref="class_star_1_1_election_result.html#a2c511dee315718c7e9ce3fa9d97b59b0"/>
+<keyword name="unresolved() const" id="Star::QualifierResult::unresolved_ade4e50df7911b1f2f0049448871f4b26" ref="class_star_1_1_qualifier_result.html#ade4e50df7911b1f2f0049448871f4b26"/>
+<keyword name="unresolvedCandidates() const" id="Star::ElectionResult::unresolvedCandidates_a33c1216dace2f0fdd13552adcea2d200" ref="class_star_1_1_election_result.html#a33c1216dace2f0fdd13552adcea2d200"/>
+<keyword name="unresolvedSeat() const" id="Star::ElectionResult::unresolvedSeat_aa5c2acad77a819c4dcb4a564ab021463" ref="class_star_1_1_election_result.html#aa5c2acad77a819c4dcb4a564ab021463"/>
+<keyword name="value" id="Rank::value_a5e9dae40264d7d5bd9a67a70e74090dd" ref="struct_rank.html#a5e9dae40264d7d5bd9a67a70e74090dd"/>
+<keyword name="voter() const" id="Star::Election::Ballot::voter_acf1883dbd9f22508a9f89e186ad8da18" ref="class_star_1_1_election_1_1_ballot.html#acf1883dbd9f22508a9f89e186ad8da18"/>
+<keyword name="wBallot(const Voter &amp;voter, const QList&lt; Vote &gt; &amp;votes)" id="Star::Election::Builder::wBallot_a3ffe36206cabcff91ed07cbceff3fb33" ref="class_star_1_1_election_1_1_builder.html#a3ffe36206cabcff91ed07cbceff3fb33"/>
+<keyword name="winner() const" id="Star::Seat::winner_a2e41ed885a4e7af7edb7520a6fc62d19" ref="class_star_1_1_seat.html#a2e41ed885a4e7af7edb7520a6fc62d19"/>
+<keyword name="winners() const" id="Star::ElectionResult::winners_a4311329df10ff5060554421a0630a289" ref="class_star_1_1_election_result.html#a4311329df10ff5060554421a0630a289"/>
+<keyword name="wName(const QString &amp;name)" id="Star::Election::Builder::wName_a283a4aaf06041f854f0c4c9ff0d149b6" ref="class_star_1_1_election_1_1_builder.html#a283a4aaf06041f854f0c4c9ff0d149b6"/>
+<keyword name="wSeat(const Seat &amp;seat)" id="Star::ExpectedElectionResult::Builder::wSeat_a1b8af314c21db569a97ce0fe89ce65c0" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1b8af314c21db569a97ce0fe89ce65c0"/>
+<keyword name="wSeatCount(int count)" id="Star::Election::Builder::wSeatCount_add0caf99c52c39c328202e198786f0d7" ref="class_star_1_1_election_1_1_builder.html#add0caf99c52c39c328202e198786f0d7"/>
+<keyword name="wWinner(const QString &amp;winner)" id="Star::ExpectedElectionResult::Builder::wWinner_a1824039de1f79e63a80073af071a4b78" ref="class_star_1_1_expected_election_result_1_1_builder.html#a1824039de1f79e63a80073af071a4b78"/>
+<keyword name="~Calculator()" id="Star::Calculator::~Calculator_aca3190b0f192b79e7c75ae46ad9a10e4" ref="class_star_1_1_calculator.html#aca3190b0f192b79e7c75ae46ad9a10e4"/>
+<keyword name="BallotBox" id="Star::BallotBox_ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad"/>
+<keyword name="calculatorOptionsFromReferenceInput(Star::Calculator::Options &amp;returnBuffer, const QString &amp;calcOptionsPath)" id="Star::calculatorOptionsFromReferenceInput_a5198ffb853679ea2c9a7c3e8610b92e0" ref="namespace_star.html#a5198ffb853679ea2c9a7c3e8610b92e0"/>
+<keyword name="CategoryConfig" id="Star::CategoryConfig_ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8"/>
+<keyword name="electionsFromReferenceInput(QList&lt; Election &gt; &amp;returnBuffer, const QString &amp;categoryConfigPath, const QString &amp;ballotBoxPath)" id="Star::electionsFromReferenceInput_adccc08cfb6f91e8b8942950acdaf1898" ref="namespace_star.html#adccc08cfb6f91e8b8942950acdaf1898"/>
+<keyword name="ExpectedResult" id="Star::ExpectedResult_ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5"/>
+<keyword name="expectedResultsFromReferenceInput(QList&lt; ExpectedElectionResult &gt; &amp;returnBuffer, const QString &amp;resultSetPath)" id="Star::expectedResultsFromReferenceInput_a77041ed6336d7d9803e8cfe736958a57" ref="namespace_star.html#a77041ed6336d7d9803e8cfe736958a57"/>
+<keyword name="NoError" id="Star::NoError_ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea"/>
+<keyword name="ReferenceErrorType" id="Star::ReferenceErrorType_ac6af9d20b9ae3b0c169b56fac35d931e" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931e"/>
+<keyword name="NoError" id="Star::NoError_ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea70a47cae4eb221930f2663fd244369ea"/>
+<keyword name="CategoryConfig" id="Star::CategoryConfig_ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea8cc9b3faba4ed80e3fa532be73d153f8"/>
+<keyword name="BallotBox" id="Star::BallotBox_ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931eab4b512ed8f469ea78b412c1f41ed72ad"/>
+<keyword name="ExpectedResult" id="Star::ExpectedResult_ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea9776616eb4ac0d8c695cbe49bd4c48a5"/>
+<keyword name="CalcOptions" id="Star::CalcOptions_ac6af9d20b9ae3b0c169b56fac35d931ea182b83cf2fbefac8c7ace84751a0682b" ref="namespace_star.html#ac6af9d20b9ae3b0c169b56fac35d931ea182b83cf2fbefac8c7ace84751a0682b"/>
+</keywords>
+<files>
+<file>annotated.html</file>
+<file>ballotbox__p_8h_source.html</file>
+<file>bc_s.png</file>
+<file>bdwn.png</file>
+<file>calculator_8h_source.html</file>
+<file>calculatoroptions__p_8h_source.html</file>
+<file>categoryconfig__p_8h_source.html</file>
+<file>class_star_1_1_calculator-members.html</file>
+<file>class_star_1_1_calculator.html</file>
+<file>class_star_1_1_calculator__coll__graph.svg</file>
+<file>class_star_1_1_election-members.html</file>
+<file>class_star_1_1_election.html</file>
+<file>class_star_1_1_election_1_1_ballot-members.html</file>
+<file>class_star_1_1_election_1_1_ballot.html</file>
+<file>class_star_1_1_election_1_1_builder-members.html</file>
+<file>class_star_1_1_election_1_1_builder.html</file>
+<file>class_star_1_1_election_result-members.html</file>
+<file>class_star_1_1_election_result.html</file>
+<file>class_star_1_1_expected_election_result-members.html</file>
+<file>class_star_1_1_expected_election_result.html</file>
+<file>class_star_1_1_expected_election_result_1_1_builder-members.html</file>
+<file>class_star_1_1_expected_election_result_1_1_builder.html</file>
+<file>class_star_1_1_qualifier_result-members.html</file>
+<file>class_star_1_1_qualifier_result.html</file>
+<file>class_star_1_1_seat-members.html</file>
+<file>class_star_1_1_seat.html</file>
+<file>classes.html</file>
+<file>closed.png</file>
+<file>dir_000007_000004.html</file>
+<file>dir_063152f13f2da9c9eb5a4278a9540531.html</file>
+<file>dir_063152f13f2da9c9eb5a4278a9540531_dep.svg</file>
+<file>dir_18e11abac6ebbaac22d5b3cdb59ee996.html</file>
+<file>dir_18e11abac6ebbaac22d5b3cdb59ee996_dep.svg</file>
+<file>dir_289e4f81dac3e5b937382db529d2b138.html</file>
+<file>dir_289e4f81dac3e5b937382db529d2b138_dep.svg</file>
+<file>dir_390e60343483829cc8f6ae2059e855bd.html</file>
+<file>dir_390e60343483829cc8f6ae2059e855bd_dep.svg</file>
+<file>dir_4335ce4a64d0d4f9f4c8f0a782dfdfeb.html</file>
+<file>dir_9e985f2bac74fac21e961b4ee2414d07.html</file>
+<file>dir_9e985f2bac74fac21e961b4ee2414d07_dep.svg</file>
+<file>dir_ae19e32fcebf694ccd1680e6d461dc93.html</file>
+<file>dir_c7843cf018fc83a355b444fd2a8715d6.html</file>
+<file>dir_c7843cf018fc83a355b444fd2a8715d6_dep.svg</file>
+<file>dir_da0dc239955c7b5a26a22b6729f7f3dd.html</file>
+<file>dir_da0dc239955c7b5a26a22b6729f7f3dd_dep.svg</file>
+<file>doc.png</file>
+<file>doxygen-awesome-customize.css</file>
+<file>doxygen-awesome-darkmode-toggle.js</file>
+<file>doxygen-awesome-fragment-copy-button.js</file>
+<file>doxygen-awesome-paragraph-link.js</file>
+<file>doxygen-awesome-sidebar-only-darkmode-toggle.css</file>
+<file>doxygen-awesome-sidebar-only.css</file>
+<file>doxygen-awesome.css</file>
+<file>doxygen.css</file>
+<file>doxygen.svg</file>
+<file>dynsections.js</file>
+<file>election_8h_source.html</file>
+<file>electionresult_8h_source.html</file>
+<file>expectedelectionresult_8h_source.html</file>
+<file>files.html</file>
+<file>folderclosed.png</file>
+<file>folderopen.png</file>
+<file>functions.html</file>
+<file>functions_enum.html</file>
+<file>functions_eval.html</file>
+<file>functions_func.html</file>
+<file>functions_type.html</file>
+<file>functions_vars.html</file>
+<file>graph_legend.html</file>
+<file>graph_legend.svg</file>
+<file>headtoheadresults_8h_source.html</file>
+<file>hierarchy.html</file>
+<file>index.html</file>
+<file>inherit_graph_0.svg</file>
+<file>inherit_graph_1.svg</file>
+<file>inherit_graph_10.svg</file>
+<file>inherit_graph_11.svg</file>
+<file>inherit_graph_12.svg</file>
+<file>inherit_graph_2.svg</file>
+<file>inherit_graph_3.svg</file>
+<file>inherit_graph_4.svg</file>
+<file>inherit_graph_5.svg</file>
+<file>inherit_graph_6.svg</file>
+<file>inherit_graph_7.svg</file>
+<file>inherit_graph_8.svg</file>
+<file>inherit_graph_9.svg</file>
+<file>inherits.html</file>
+<file>jquery.js</file>
+<file>logo.svg</file>
+<file>menu.js</file>
+<file>menudata.js</file>
+<file>namespace_star.html</file>
+<file>namespacemembers.html</file>
+<file>namespacemembers_enum.html</file>
+<file>namespacemembers_func.html</file>
+<file>namespaces.html</file>
+<file>nav_f.png</file>
+<file>nav_g.png</file>
+<file>nav_h.png</file>
+<file>open.png</file>
+<file>qualifierresult_8h_source.html</file>
+<file>rank_8h_source.html</file>
+<file>reference_8h.html</file>
+<file>reference_8h__incl.svg</file>
+<file>reference_8h_source.html</file>
+<file>resultset__p_8h_source.html</file>
+<file>search/close.svg</file>
+<file>search/mag_sel.svg</file>
+<file>search/search.css</file>
+<file>search/search.js</file>
+<file>search/search_l.png</file>
+<file>search/search_m.png</file>
+<file>search/search_r.png</file>
+<file>seat_8h_source.html</file>
+<file>splitbar.png</file>
+<file>struct_rank-members.html</file>
+<file>struct_rank.html</file>
+<file>struct_rank__coll__graph.svg</file>
+<file>struct_star_1_1_election_1_1_vote-members.html</file>
+<file>struct_star_1_1_election_1_1_vote.html</file>
+<file>struct_star_1_1_election_1_1_vote__coll__graph.svg</file>
+<file>struct_star_1_1_election_1_1_voter-members.html</file>
+<file>struct_star_1_1_election_1_1_voter.html</file>
+<file>struct_star_1_1_election_1_1_voter__coll__graph.svg</file>
+<file>struct_star_1_1_reference_error-members.html</file>
+<file>struct_star_1_1_reference_error.html</file>
+<file>struct_star_1_1_reference_error__coll__graph.svg</file>
+<file>sync_off.png</file>
+<file>sync_on.png</file>
+<file>tab_a.png</file>
+<file>tab_b.png</file>
+<file>tab_h.png</file>
+<file>tab_s.png</file>
+<file>tabs.css</file>
+</files>
+</filterSection>
+</QtHelpProject>

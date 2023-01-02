@@ -1,0 +1,23 @@
+var NAVTREEINDEX1 =
+{
+"struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516":[2,0,1,2,0],
+"struct_star_1_1_election_1_1_vote.html#a95f08bb89a8fa5c0357fd9ec9ea34516":[3,0,0,1,2,0],
+"struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793":[2,0,1,2,1],
+"struct_star_1_1_election_1_1_vote.html#ad4d5ff8d14dfd75500d144e98214e793":[3,0,0,1,2,1],
+"struct_star_1_1_election_1_1_voter.html":[2,0,1,3],
+"struct_star_1_1_election_1_1_voter.html":[3,0,0,1,3],
+"struct_star_1_1_election_1_1_voter.html#a59900bba0c30d2d52ff1a784fc264559":[2,0,1,3,1],
+"struct_star_1_1_election_1_1_voter.html#a59900bba0c30d2d52ff1a784fc264559":[3,0,0,1,3,1],
+"struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab":[3,0,0,1,3,0],
+"struct_star_1_1_election_1_1_voter.html#a65ce92d8acc0ab7311bda20b57dd67ab":[2,0,1,3,0],
+"struct_star_1_1_reference_error.html":[2,0,5],
+"struct_star_1_1_reference_error.html":[3,0,0,5],
+"struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e":[3,0,0,5,2],
+"struct_star_1_1_reference_error.html#a450ff349f34fc5f0044a386bf2991b9e":[2,0,5,2],
+"struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0":[3,0,0,5,3],
+"struct_star_1_1_reference_error.html#a6e7e73cc1790367515aeb4ace43a7cd0":[2,0,5,3],
+"struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f":[3,0,0,5,1],
+"struct_star_1_1_reference_error.html#aacd1114f6666782ee77eee0db560608f":[2,0,5,1],
+"struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e":[2,0,5,0],
+"struct_star_1_1_reference_error.html#adeaaf0a2ab3ba710f0e4c003b26b7b7e":[3,0,0,5,0]
+};
